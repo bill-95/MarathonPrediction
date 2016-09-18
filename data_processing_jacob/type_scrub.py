@@ -5,9 +5,6 @@
 # if a type isn't caught by the list of strings the user will manually input the tag
 # note that the variable data is of type list of lists where each list inside of data is each row from the .csv file
 
-import numpy
-import scipy
-import sklearn
 import csv
 import sys
 
